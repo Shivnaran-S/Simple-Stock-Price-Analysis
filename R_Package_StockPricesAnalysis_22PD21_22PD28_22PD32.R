@@ -3,7 +3,7 @@ library(reshape2)   # For HeatMap
 library(lubridate)  # For ts (time series) function
 library(ggplot2)    # For heatmap
 customised_column_names<-c("Date","Company1","Company2","Company3","Company4","Company5","Company6","Company7","Company8","Company9","Company10")
-stock_data <- read.table("D:/Naran/Sem 3/AS & RP/R package/caseStudy6.txt", col.names = customised_column_names)
+stock_data <- read.table("caseStudy6.txt", col.names = customised_column_names)
 company_names <- customised_column_names[2:11]
 
 ### Using statistical software 

@@ -1,1 +1,2 @@
-# Simple-Stock-Price-Analysis
+Capital Kaleidoscope: Illuminating Investment Diversity
+'Capital Kaleidoscope' presents a meticulous analysis of investment diversity using R programming. Leveraging statistical techniques such as histograms, time plots, and descriptive statistics, this project unveils the intricate patterns of the stock market. 'Capital Kaleidoscope' empowers investors with actionable insights for constructing resilient portfolios in the ever-evolving financial landscape.
